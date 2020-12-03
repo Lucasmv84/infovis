@@ -1,2 +1,2 @@
 # infovis
-(Trabajo Practico Final) [http://Lucasmv84.github.io/infovis/tp.html]
+(Trabajo Practico Final)[https://Lucasmv84.github.io/infovis/tp.html]
